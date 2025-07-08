@@ -12,7 +12,7 @@ This is a lightweight repository of bayesian neural network for PyTorch.
 
 ### :clipboard: Dependencies
 
-- torch 1.2.0
+- torch 2.2.0
 - python 3.6
 
 
